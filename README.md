@@ -4,7 +4,7 @@ GuessOnCLI is a simple game built with C/C++.
 
 ## Download windows version of the game
 
-[guessOnCLI](https://bit.ly/guess-on-cli)
+[guessOnCLI](https://github.com/Taiwrash/guessOnCLI/raw/master/guessme/guess.zip) It is a zip file, Extract it after download and run **guess.exe** on your PC
 
 ## Available for Contribution
 
