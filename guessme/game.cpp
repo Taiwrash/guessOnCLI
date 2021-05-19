@@ -15,7 +15,7 @@ void play_game()
     int list[250];
     int size = 0;
     int random = rand() % 251;
-    std::cout << random << std::endl;
+    // std::cout << random << std::endl;
     std::cout << "Yo!!, game started! \n";
     std::cout << "Now guess a number \n";
 
@@ -48,7 +48,7 @@ int main()
 {
     std::cout << "--------------------------------------------------------\n"
               << "WELCOME TO GUESSONCLI GAME \n"
-              << "---------------------------------------------------------------------" << std::endl;
+              << "----------------------------------------------------------" << std::endl;
     int choice;
 
     do
